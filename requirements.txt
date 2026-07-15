@@ -1,0 +1,6 @@
+scipy
+mouse
+cffi
+pynput
+Pillow
+rich
